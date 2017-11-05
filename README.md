@@ -2,7 +2,7 @@
 
 >
 #一个简单的人员管理demo
-#A Vue.js project
+A Vue.js project
 
 ## 运行方法
 
